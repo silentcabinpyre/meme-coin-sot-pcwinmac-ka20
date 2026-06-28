@@ -1,4 +1,4 @@
-# 
+# 顶级 meme coin sniper bot 模板 Mac OS版 | 开源 meme coin sniper bot 模板 PC Windows版。集成 DEX路由器集成 和 数据解析，跨平台性能最大化。
 
 
 
